@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Valentina Medrano Cueto
 19 años 
 Mis aspiraciones con el curso primero es ganarlo, aprender mucho y disfrutar de las clases y practicas.
+
+Porque la carpeta dejo de estar vacia.
+>>>>>>> fc35f6715642e897ea1054be33996ac4bdea3526
